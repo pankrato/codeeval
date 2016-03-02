@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#https://www.codeeval.com/open_challenges/113/
+#https://www.codeeval.com/open_challenges/116/
 
 import sys
 
